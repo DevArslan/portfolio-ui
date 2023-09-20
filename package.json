@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DevArslan/portfolio-ui/issues"
   },
-  "homepage": "https://github.com/DevArslan/portfolio-ui#readme"
+  "homepage": "https://github.com/DevArslan/portfolio-ui#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
 }
